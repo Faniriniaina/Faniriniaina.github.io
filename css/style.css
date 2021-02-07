@@ -127,7 +127,7 @@
   position: relative;
   display: flex;
   align-items: flex-end;
-  background-image: url("../images/top-banner-bckg.jpg");
+  background-image: url("../images/logo-back.jpg");
   background-position: center;
   background-size: cover; }
   .fh5co-top-banner::after {
@@ -180,16 +180,16 @@
           margin-bottom: 25px;
           font-size: 14px; } }
   .top-banner__inner .top-banner__h2 {
-    font-size: 74px;
-    letter-spacing: 3px;
+    font-size: 70px;
+    letter-spacing: 2px;
     color: #fff;
     font-family: "Calisto-MT-Bold"; }
-    @media (max-width: 1250px) {
+    @media (max-width: 1200px) {
       .top-banner__inner .top-banner__h2 {
-        font-size: 50px; } }
+        font-size: 40px; } }
     @media (max-width: 768px) {
       .top-banner__inner .top-banner__h2 {
-        font-size: 35px; } }
+        font-size: 30px; } }
   .top-banner__inner .top-banner__text-up .top-banner__h2 {
     margin-top: 15px; }
     @media (max-width: 768px) {
